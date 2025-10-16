@@ -1,3 +1,4 @@
+//queue using array
 #include<stdio.h>
 #define size 10
 void enqueue();
