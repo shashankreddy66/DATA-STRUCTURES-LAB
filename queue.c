@@ -1,3 +1,4 @@
+//queue using linked list
 #include<stdio.h>
 void enqueue(int value);
 void dequeue(int value);
